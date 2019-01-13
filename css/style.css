@@ -1,0 +1,10 @@
+@media {
+  #welcome-section {
+    height: 664px
+  }
+  .navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  }
+}
